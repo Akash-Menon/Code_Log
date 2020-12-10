@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Test Test",
-            "content": "print (&quot;I think this has been a succesful connection&quot;) .",
-            "url": "https://akash-menon.github.io/Code_Log/fastpages/jupyter/2020/12/10/Test.html",
-            "relUrl": "/fastpages/jupyter/2020/12/10/Test.html",
+            "title": "Title",
+            "content": "&gt; &quot;Is the connection on?&quot; - toc: true - branch: master - badges: true - comments: true - author: Akash Menon - categories: [fastpages, jupyter] . I think this has been a succesful connection . .",
+            "url": "https://akash-menon.github.io/Code_Log/2020/12/10/Test.html",
+            "relUrl": "/2020/12/10/Test.html",
             "date": " • Dec 10, 2020"
         }
         
