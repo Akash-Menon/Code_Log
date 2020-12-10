@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "&gt; &quot;Is the connection on?&quot; - toc: true - branch: master - badges: true - comments: true - author: Akash Menon - categories: [fastpages, jupyter] . File &#34;&lt;ipython-input-5-b0ab4c1f0cf8&gt;&#34;, line 8 - author: Akash Menon ^ SyntaxError: invalid syntax . print (&quot;I think this has been a succesful connection&quot;) . I think this has been a succesful connection .",
-            "url": "https://akash-menon.github.io/Code_Log/2020/12/10/Test.html",
-            "relUrl": "/2020/12/10/Test.html",
+            "title": "Test Test",
+            "content": "print (&quot;I think this has been a succesful connection&quot;) .",
+            "url": "https://akash-menon.github.io/Code_Log/fastpages/jupyter/2020/12/10/Test.html",
+            "relUrl": "/fastpages/jupyter/2020/12/10/Test.html",
             "date": " • Dec 10, 2020"
         }
         
